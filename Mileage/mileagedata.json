@@ -1,0 +1,23 @@
+[
+    {
+        "nickName": "min Volvo",
+        "make": "Volvo",
+        "model": "V60",
+        "maxMileage": 30000,
+        "mileages": [{"mileage": 129345}, {"mileage": 127877}]
+    },
+    {
+        "nickName": "min Polestar",
+        "make": "Polestar",
+        "model": "2",
+        "maxMileage": 25000,
+        "mileages": [{"mileage": 10234}, {"mileage": 16345}]
+    },
+    {
+        "nickName": "min Opel",
+        "make": "Opel",
+        "model": "Corsa",
+        "maxMileage": 25000,
+        "mileages": [{"mileage": 12344}, {"mileage": 534}]
+    }
+]
